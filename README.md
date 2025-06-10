@@ -20,8 +20,8 @@ It supports basic arithmetic operations and is a beginner-friendly project.
 ---
 
 # 🖥️ How to Run
-
-1. Clone this repository:
+```
+ 1. Clone this repository:
 
  git clone https://github.com/Saswat-King/basic-calculator-in-java.git
 
@@ -31,8 +31,8 @@ It supports basic arithmetic operations and is a beginner-friendly project.
 
 3. Compile and run:
 
-javac Calculator.java
-java Calculator
+  javac Calculator.java
+  java Calculator
+```
 
 
- Basic Calculator-in-java

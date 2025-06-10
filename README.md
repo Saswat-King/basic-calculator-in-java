@@ -37,7 +37,7 @@ It supports basic arithmetic operations and is a beginner-friendly project.
 
 ---
 📚 More Projects <br>
-Check out more of my projects on my GitHub profile.
+Check out more of my projects on my [GitHub profile](https://github.com/Saswat-King)
 
 
 

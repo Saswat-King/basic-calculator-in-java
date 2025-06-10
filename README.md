@@ -35,4 +35,9 @@ It supports basic arithmetic operations and is a beginner-friendly project.
   java Calculator
 ```
 
+---
+📚 More Projects <br>
+Check out more of my projects on my GitHub profile.
+
+
 

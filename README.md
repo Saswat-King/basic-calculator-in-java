@@ -23,7 +23,7 @@ It supports basic arithmetic operations and is a beginner-friendly project.
 
 1. Clone this repository:
 
-git clone https://github.com/Saswat-King/basic-calculator-in-java.git
+ git clone https://github.com/Saswat-King/basic-calculator-in-java.git
 
 
 2. Open the project in your favorite Java IDE (ex: IntelliJ IDEA, VS Code).
